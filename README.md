@@ -1,7 +1,5 @@
 # Underwater Backscatter
 
-# Underwater Backscatter
-
 We present Piezo-Acoustic Backscatter (PAB), the first technology that enables backscatter networking in underwater environments.
 
 Since wireless communication is the largest source of energy consumption for many underwater sensors, transitioning to
